@@ -15,3 +15,7 @@ venv/
 # Cache de python
 */__pycache__/
 */*/__pycache__/
+
+# Ignorar configuración de producción
+
+main/settings_production.py
